@@ -133,7 +133,7 @@ PostSphere/
 
 1. Clone the repository
 
-git clone https://github.com/Jyoti-coder1/PostSphere.git
+git clone https://github.com/Jyoti-coder1/PostSphere-feed-explorer.git
 cd PostSphere
 
 2. Install dependencies
